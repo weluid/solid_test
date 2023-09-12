@@ -1,16 +1,35 @@
-# solid_test
+# Test for Solid Software
+---
+This is an app that changes the background color when you click anywhere on the screen.🌟
+Built using BloC architecture.
 
-A new Flutter project.
+#### Functionality:
 
-## Getting Started
+ ☑ Click on the screen and watch the magic ✨
 
-This project is a starting point for a Flutter application.
+ 
+## How to start 
+---
+```dart
+git clone https://github.com/weluid/solid_test.git
+cd solid_test
+flutter packages get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Tech
+---
+Libraries used in the project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Bloc] - makes it easy to separate UI from business logic, making code fast and reusable
+- [Flutter Localization] - provides localization facilities, including message translation
+- [Solid Lints] - Flutter/Dart lints configuration based on software engineering industry standards (ISO/IEC, NIST) and best practices.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[video.webm](https://github.com/weluid/solid_test/assets/124319560/ca5cf2f5-ca1b-47d9-85f8-ca2b3dc5c534)
+
+
+
+   [Bloc]: <https://pub.dev/packages/flutter_bloc>
+   [Solid Lints]: <https://pub.dev/packages/animated_theme_switcher>
+   [Flutter Localization]: <https://pub.dev/packages/flutter_localization>
+>
