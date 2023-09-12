@@ -1,6 +1,6 @@
 # Test for Solid Software
 ---
-This is an app that changes the background color when you click anywhere on the screen.🌟
+This is an app that changes the background color when you click anywhere on the screen.🌟\
 Built using BloC architecture.
 
 #### Functionality:
@@ -30,6 +30,6 @@ Libraries used in the project:
 
 
    [Bloc]: <https://pub.dev/packages/flutter_bloc>
-   [Solid Lints]: <https://pub.dev/packages/animated_theme_switcher>
+   [Solid Lints]: <https://pub.dev/packages/solid_lints>
    [Flutter Localization]: <https://pub.dev/packages/flutter_localization>
 >
