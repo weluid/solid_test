@@ -1,7 +1,8 @@
 import 'dart:math' as math;
 
-import 'package:bloc/bloc.dart';
+
 import 'package:flutter/material.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:solid_test/utils/constants.dart';
 
 part 'color_event.dart';
